@@ -64,9 +64,6 @@ I am a passionate **Backend Developer** focused on building robust, scalable, an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamleshbarik05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Kamleshbarik05?theme=dark&font=Fira_Code&ext=activity&hide=username,ranking,total-solved" alt="LeetCode Stats" />
-</p>
 
 
 ---
