@@ -18,8 +18,6 @@ I am a passionate **Backend Developer** focused on building robust, scalable, an
 - 🔭 I’m currently working on building high-performance APIs and microservices.
 - 🌱 I’m currently learning advanced system design and cloud-native architecture.
 - 💬 Ask me about **Python, FastAPI, Django, and Database Design**.
-- 📫 How to reach me: **[kamlesh.barik09@gmail.com]** or connect on LinkedIn at **[Kamleshbarik05](https://linkedin.com/in/Kamleshbarik05)**.
-
 ---
 
 ### 🛠️ Tech Stack & Skills
