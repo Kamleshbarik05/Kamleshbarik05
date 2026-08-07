@@ -1,30 +1,14 @@
 👋 Hi 
-<p align="center"><img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39C3E6&center=true&vCenter=true&width=700&lines=Backend+%26+Systems+Developer"
-alt="Backend and Systems Developer"
-/>
 
-  <br /><img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Services"
-alt="Building Scalable Backend Services"
-/>
-
-  <br /><img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Designing+High-Performance+APIs"
-alt="Designing High-Performance APIs"
-/>
-
-  <br /><img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Exploring+Networking+%26+Distributed+Systems"
-alt="Exploring Networking and Distributed Systems"
-/>
-
-  <br /><img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=Engineering+Reliable+Cloud+Infrastructure"
-alt="Engineering Reliable Cloud Infrastructure"
-/>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39C3E6&center=true&vCenter=true&width=750&lines=Backend+%26+Developer;Building+Scalable+Backend+Services;Designing+High-Performance+APIs;Exploring+Networking+%26+Distributed+Systems;Engineering+Reliable+Cloud+Infrastructure"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
+
 💫 About Me
 
 I'm a Backend & Systems Developer interested in building software where performance, scalability, and reliability matter.
