@@ -11,7 +11,7 @@
 
 💫 About Me
 
-I'm a Backend & Systems Developer interested in building software where performance, scalability, and reliability matter.
+I'm a Backend Developer interested in building software where performance, scalability, and reliability matter.
 
 I work primarily with Python and C++, building backend services, APIs, real-time communication systems, and network-oriented applications. I enjoy going beyond the application layer—understanding how systems communicate, how data moves through networks, how databases perform under load, and how services can be designed for scale.
 
