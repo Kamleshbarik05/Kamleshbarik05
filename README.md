@@ -1,8 +1,5 @@
 👋 Hi 
-
 <p align="center">
-  <img src="github_profile_banner.png" alt="Tech Banner" width="100%" />
-</p><p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39C3E6&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%26+C%2B%2B+Enthusiast;Building+Scalable+Systems;Cloud+%26+Distributed+Systems" alt="Typing SVG" />
 
