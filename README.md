@@ -5,18 +5,6 @@
 </p><p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39C3E6&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%26+C%2B%2B+Enthusiast;Building+Scalable+Systems;Cloud+%26+Distributed+Systems" alt="Typing SVG" />
-  </a>
-</p><p align="center">
-  <a href="https://github.com/Kamleshbarik05">
-    <img src="https://img.shields.io/github/followers/Kamleshbarik05?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Kamleshbarik05?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Kamleshbarik05?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars" />
-  </a>
-  <a href="mailto:kamlesh.barik09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>---
 
 💫 About Me
 
