@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39C3E6&center=true&vCenter=true&width=750&lines=Backend+%26+Developer;Exploring+Distributed+Systems"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39C3E6&center=true&vCenter=true&width=750&lines=Backend+Developer;Exploring+Distributed+Systems"
       alt="Typing SVG"
     />
   </a>
@@ -85,5 +85,6 @@ I work primarily with Python and C++, building backend services, APIs, real-time
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kamleshbarik05&label=Profile%20Views&color=39C3E6&style=for-the-badge" alt="Profile Views" />
 </p><p align="center">
-  <i>Building systems. Solving problems. Learning every day.</i>
+  <i>Think ➡️ Build ➡️ Scale</i>
+</p>
 </p>
