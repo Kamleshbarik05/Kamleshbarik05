@@ -10,6 +10,7 @@
 </p>
 
 💫 About Me
+
 I am a Backend & Systems Engineer dedicated to building high-performance, concurrent, and fault-tolerant software. I operate at the intersection of application logic, database performance, and network protocols. My goal is to understand not just how systems work, but how to optimize them to run faster, handle more load, and scale seamlessly.
 
 ⚙️ High-Performance Backends: Architecting low-latency, concurrent systems, RESTful APIs, and real-time streaming architectures.
