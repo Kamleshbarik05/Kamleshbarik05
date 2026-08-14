@@ -10,17 +10,14 @@
 </p>
 
 💫 About Me
+I am a Backend & Systems Engineer dedicated to building high-performance, concurrent, and fault-tolerant software. I operate at the intersection of application logic, database performance, and network protocols. My goal is to understand not just how systems work, but how to optimize them to run faster, handle more load, and scale seamlessly.
 
-I'm a Backend Developer interested in building software where performance, scalability, and reliability matter.
-
-I work primarily with Python and C++, building backend services, APIs, real-time communication systems, and network-oriented applications. I enjoy going beyond the application layer—understanding how systems communicate, how data moves through networks, how databases perform under load, and how services can be designed for scale.
-
-- ⚙️ Building scalable backend services, REST APIs & real-time systems
-- 🧠 Working with Python, C/C++17, FastAPI & SQLAlchemy
-- 🌐 Exploring network programming, WebSockets, packet analysis & distributed systems
-- 🗄️ Working with MySQL, PostgreSQL & SQLite
-- ☁️ Building and deploying with AWS, Docker & Kubernetes
-- 🚀 Focused on system design, performance optimization, concurrency & reliability
+⚙️ High-Performance Backends: Architecting low-latency, concurrent systems, RESTful APIs, and real-time streaming architectures.
+🧠 Modern Languages & Frameworks: Leveraging C++17 for performance-critical engines and Python (FastAPI & SQLAlchemy) for scale-ready web services.
+🌐 Network Internals: Developing custom protocol wrappers, implementing real-time WebSockets, and performing low-level packet analysis using Scapy.
+🗄️ Data Architecture: Designing optimized schemas, index strategies, and tuning query execution for PostgreSQL, MySQL, and SQLite.
+☁️ Cloud & DevOps: Packaging containerized microservices via Docker & Kubernetes and deploying scalable infrastructure on AWS.
+🚀 Reliability & Concurrency: Identifying performance bottlenecks, managing memory efficiency, and handling multi-threaded race conditions.
 
 ---
 
@@ -54,8 +51,6 @@ I work primarily with Python and C++, building backend services, APIs, real-time
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
