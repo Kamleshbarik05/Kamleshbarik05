@@ -14,10 +14,15 @@
 I am a Backend & Systems Engineer dedicated to building high-performance, concurrent, and fault-tolerant software. I operate at the intersection of application logic, database performance, and network protocols. My goal is to understand not just how systems work, but how to optimize them to run faster, handle more load, and scale seamlessly.
 
 ⚙️ High-Performance Backends: Architecting low-latency, concurrent systems, RESTful APIs, and real-time streaming architectures.
+
 🧠 Modern Languages & Frameworks: Leveraging C++17 for performance-critical engines and Python (FastAPI & SQLAlchemy) for scale-ready web services.
+
 🌐 Network Internals: Developing custom protocol wrappers, implementing real-time WebSockets, and performing low-level packet analysis using Scapy.
+
 🗄️ Data Architecture: Designing optimized schemas, index strategies, and tuning query execution for PostgreSQL, MySQL, and SQLite.
+
 ☁️ Cloud & DevOps: Packaging containerized microservices via Docker & Kubernetes and deploying scalable infrastructure on AWS.
+
 🚀 Reliability & Concurrency: Identifying performance bottlenecks, managing memory efficiency, and handling multi-threaded race conditions.
 
 ---
