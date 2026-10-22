@@ -1,39 +1,27 @@
 # 👋 Hi, I'm Kamlesh Barik
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39C3E6&center=true&vCenter=true&width=750&lines=Final+Year+CS+Student;Backend+%26+Systems+Enthusiast;Exploring+AI+Systems+%26+Concurrency"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
 
 ## 💫 About Me
 
-I am a final-year Computer Science student focused on **backend systems, low-latency performance, and applied AI**. 
+I am a final-year **Electrical & Electronics Engineering (EEE)** student with a dedicated focus on **Computer Science, Backend Systems, and Applied AI**.
 
-Rather than just building superficial wrappers, I enjoy understanding how software behaves under the hood—from memory layout in C++ and packet tracing in networks to eliminating hallucinations in production AI pipelines.
+With a strong foundation in engineering mathematics and analytical problem solving, I focus on building reliable software with clean architecture, efficient data structures, and measurable performance.
 
-- ⚙️ **Backend & Systems:** Building concurrent APIs, socket connections, and exploring distributed system patterns.
-- 🧠 **C++ & Python:** Writing performance-critical routines in **C++17** and building clean, modular web services with **FastAPI**.
-- 🌐 **Network Internals:** Experimenting with custom protocols, WebSockets, and low-level packet crafting using **Scapy**.
-- 🗄️ **Databases:** Schema design, indexing strategies, and query optimization across **PostgreSQL**, **MySQL**, and **SQLite**.
-- 🛡️ **AI Engineering:** RAG pipelines, risk-aware escalation guardrails, and statistical model evaluation (**Cohen's Kappa**).
+- ⚙️ **Backend Development:** Building modular RESTful APIs and real-time services using **Python (FastAPI)** and **C++**.
+- 🗄️ **Data & Storage:** Schema design, indexing, and query execution in **PostgreSQL**, **MySQL**, and **SQLite**.
+- 🌐 **Systems & Networking:** Hands-on work with sockets, network protocols, and packet analysis using **Scapy**.
+- 🛡️ **AI Engineering & Evals:** Designing grounded RAG pipelines, safety guardrails, and statistical evaluation harnesses.
 
 ---
 
-## 🚀 Featured Work & Open Source
+## 🚀 Featured Project
 
-- 🛡️ **[verifiable-support-agent](https://github.com/Kamleshbarik05/verifiable-support-agent)**  
-  *Trust-Calibrated AI Support Triage with Grounded RAG & Risk Guardrails*  
-  - Engineered an end-to-end triage pipeline over 100K+ real `@AppleSupport` tweets with sub-10ms CPU inference.  
-  - Implemented two-tier safety guardrails reducing False Negative Rate from 0.88 to 0.12 (-86%) on safety/legal edge cases.  
-  - Statistically calibrated an automated LLM-as-a-judge rubric against a 200-sample golden set (**Cohen's Kappa $\kappa = 0.694$**).
-
-- ⚡ **[sparse-attention-hub](https://github.com/skylight-org/sparse-attention-hub)** *(Open Source Contributor)*  
-  *Efficient Attention & KV-Cache Acceleration for LLMs*  
-  - Contributed bug fixes and pull requests for sparse attention mechanisms and KV-cache mask handling.
+### 🛡️ [verifiable-support-agent](https://github.com/Kamleshbarik05/verifiable-support-agent)
+> **A Trust-Calibrated Customer Support Triage & Response Engine with Grounded RAG**
+- Built an end-to-end customer support triage pipeline over `@AppleSupport` Twitter conversations with **sub-10ms CPU latency**.
+- Designed a two-tier risk triage engine (deterministic guardrails + confidence thresholding) reducing False Negative Rate from **0.88 to 0.12 (-86%)** on safety/legal edge cases.
+- Calibrated an automated LLM-as-a-judge rubric against a 200-sample hand-labeled golden dataset, proving human agreement (**Cohen's Kappa $\kappa = 0.694$**).
+- Benchmarked against trivial and keyword baselines, accompanied by an in-depth failure analysis report and decision log (14 ADRs).
 
 ---
 
@@ -61,7 +49,7 @@ Rather than just building superficial wrappers, I enjoy understanding how softwa
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-### 🗄️ Databases & Caching
+### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -70,12 +58,9 @@ Rather than just building superficial wrappers, I enjoy understanding how softwa
 
 ### ☁️ Infrastructure & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
@@ -102,5 +87,5 @@ Rather than just building superficial wrappers, I enjoy understanding how softwa
 </p>
 
 <p align="center">
-  <i>Think ➡️ Build ➡️ Learn ➡️ Optimize</i>
+  <i>Think ➡️ Build ➡️ Learn</i>
 </p>
